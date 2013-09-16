@@ -1,0 +1,9 @@
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\obj\x86\Debug\RaceOfAMadButtons.MainForm.resources
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\obj\x86\Debug\RaceOfAMadButtons.Properties.Resources.resources
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\bin\Debug\RaceOfAMadButtons.exe
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\bin\Debug\RaceOfAMadButtons.pdb
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\obj\x86\Debug\RaceOfAMadButtons.exe
+D:\repo\RaceOfAMadButtons\RaceOfAMadButtons\obj\x86\Debug\RaceOfAMadButtons.pdb
